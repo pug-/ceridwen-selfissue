@@ -24,7 +24,7 @@
   <version>2.6.7-SNAPSHOT</version>
   <packaging>pom</packaging>
 
-  <name>ceridwen-selfissue</name>
+  <name>Ceridwen Self Issue</name>
   <description>A Java Library Self Issue Client which can issue and return books via the 3M SIP2 Protocol</description>
   <inceptionYear>2004</inceptionYear>
   <url>https://software.ceridwen.com/redmine/projects/ceridwen-selfissue</url>
